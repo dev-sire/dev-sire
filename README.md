@@ -21,13 +21,13 @@ I'm an enthusiastic student actively diving into the world of software developme
 
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sire&theme=react&border_radius=10" alt="contributions" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=dev-sire&theme=react&border_radius=10&include_all_commits=false&count_private=true"     
-  alt="contributions" />
-  <br />
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sire&theme=react&border_radius=10&include_all_commits=false&count_private=false&layout=compact" alt="contributions" />
-</div>
+
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-sire&theme=react" alt="Profile card" width="100%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-sire&theme=react" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-sire&theme=react" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-sire&theme=react" alt="Profile statistics" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-sire&theme=react" alt="Data on commits per day" width="49.7%" height="auto"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sire&theme=react&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <br/>
