@@ -4,10 +4,10 @@
 
 <br/>
 
-<h2 align="center">✨ A Passionate MERN Stack Developer! ✨</h2>
+<h2 align="center">✨ Crafting Code, Solving Problems ✨</h2>
 <div align="center">
   
-I'm an enthusiastic student actively diving into the world of software development. The MERN stack (MongoDB, Express.js, React.js, Node.js) has captured my interest, and I'm constantly learning and building projects to solidify my understanding. My passion for problem-solving extends to competitive programming, where I enjoy tackling algorithmic challenges on platforms like LeetCode. If you'd like to chat, I'd love to discuss React, Node.js, JavaScript, or anything related to competitive programming and data structures & algorithms (DSA)!
+MERN stack developer passionate about crafting robust web applications. Keen on competitive programming to sharpen problem-solving skills. Exploring the depths of web security to build secure systems.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sireyt110) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-shahid-32708a2b7) 
 </div>
@@ -17,6 +17,14 @@ I'm an enthusiastic student actively diving into the world of software developme
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
+</div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dev-sire/dev-sire/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 <h2 align="center">📊 GitHub Stats</h2>
