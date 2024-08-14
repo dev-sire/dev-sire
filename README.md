@@ -22,9 +22,9 @@ MERN stack developer passionate about crafting robust web applications. Keen on 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dev-sire/dev-sire/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dev-sire/dev-sire/output/github-contribution-grid-snake-dark.svg" />
   
-  <br/><br/><br/>
+<br/>
 </div>
 
 <h2 align="center">📊 GitHub Stats</h2>
