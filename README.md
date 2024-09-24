@@ -19,6 +19,17 @@ MERN stack developer passionate about crafting robust web applications. Keen on 
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
 </div>
 
+<h2 align="center">🏆 Leetcode Badges 🏆</h2>
+<br/>
+<div align="center">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="60px" style="margin-right: 20px;">
+</div>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
