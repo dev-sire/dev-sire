@@ -1,3 +1,8 @@
+<div align="right">
+    <a href="https://user-badge.committers.top/pakistan/dev-sire">
+        <img src="https://user-badge.committers.top/pakistan/dev-sire.svg" alt="committers.top badge">
+    </a>
+</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Shahid!;" />
 </h1>
@@ -22,11 +27,12 @@ MERN stack developer passionate about crafting robust web applications. Keen on 
 <h2 align="center">🏆 Leetcode Badges 🏆</h2>
 <br/>
 <div align="center">
-    <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="60px" style="margin-right: 20px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="60px" style="margin-right: 20px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="60px" style="margin-right: 20px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="60px" style="margin-right: 20px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="60px" style="margin-right: 20px;">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60px" style="margin-right: 20px;">
 </div>
 
@@ -55,6 +61,6 @@ MERN stack developer passionate about crafting robust web applications. Keen on 
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-sire&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=dev-sire&style=for-the-badge&color=blueviolet)
 <br />
 
