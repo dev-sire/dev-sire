@@ -24,17 +24,11 @@ MERN stack developer passionate about crafting robust web applications. Keen on 
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
 </div>
 
-<h2 align="center">🏆 Leetcode Badges 🏆</h2>
+<h2 align="center">🏆 Profile Trophies 🏆</h2>
 <br/>
-<div align="center">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="60px" style="margin-right: 20px;">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="60px" style="margin-right: 20px;">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="60px" style="margin-right: 20px;">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="60px" style="margin-right: 20px;">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="60px" style="margin-right: 20px;">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="60px" style="margin-right: 20px;">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60px" style="margin-right: 20px;">
-</div>
+<p align="center">
+<img src="https://camo.githubusercontent.com/03dcac85d41685b47f59d5af717739deb46e24c2ba7fdaf0c2a8c755bcf2e96e/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6465762d73697265267468656d653d6b696d6269655f6461726b26636f6c756d6e3d352672616e6b3d5353532c53532c532c4141412c41412c412c42" />
+</p>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
